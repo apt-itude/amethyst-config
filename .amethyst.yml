@@ -44,14 +44,6 @@ select-column-layout:
   mod: mod1
   key: c
 
-cycle-layout:
-  mod: mod1
-  key: right
-
-cycle-layout-backward:
-  mod: mod1
-  key: left
-
 toggle-float:
   mod: mod1
   key: space
