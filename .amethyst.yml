@@ -1,0 +1,117 @@
+floating:
+  - com.apple.systempreferences
+
+layouts:
+  - tall
+  - wide
+  - fullscreen
+  - column
+
+mod1: # for selecting layout
+  - option
+  - shift
+
+mod2: # for switching focus
+  - control
+  - command
+
+mod3: # for throwing windows
+  - control
+  - option
+
+mod4: # for controlling Amethyst
+  - control
+  - option
+  - command
+
+display-current-layout:
+  mod: mod1
+  key: i
+
+select-tall-layout:
+  mod: mod1
+  key: t
+
+select-wide-layout:
+  mod: mod1
+  key: w
+
+select-fullscreen-layout:
+  mod: mod1
+  key: f
+
+select-column-layout:
+  mod: mod1
+  key: c
+
+toggle-float:
+  mod: mod1
+  key: space
+
+focus-ccw:
+  mod: mod2
+  key: left
+
+focus-cw:
+  mod: mod2
+  key: right
+
+focus-screen-ccw:
+  mod: mod2
+  key: enter
+
+swap-ccw:
+  mod: mod3
+  key: left
+
+swap-cw:
+  mod: mod3
+  key: right
+
+swap-screen-ccw:
+  mod: mod3
+  key: enter
+
+throw-space-1:
+  mod: mod3
+  key: 1
+
+throw-space-2:
+  mod: mod3
+  key: 2
+
+throw-space-3:
+  mod: mod3
+  key: 3
+
+throw-space-4:
+  mod: mod3
+  key: 4
+
+throw-space-5:
+  mod: mod3
+  key: 5
+
+throw-space-6:
+  mod: mod3
+  key: 6
+
+throw-space-7:
+  mod: mod3
+  key: 7
+
+throw-space-8:
+  mod: mod3
+  key: 8
+
+throw-space-9:
+  mod: mod3
+  key: 9
+
+throw-space-10:
+  mod: mod3
+  key: 0
+
+relaunch-amethyst:
+  mod: mod4
+  key: z
