@@ -82,43 +82,43 @@ swap-screen-ccw:
 
 throw-space-1:
   mod: mod3
-  key: 1
+  key: "1"
 
 throw-space-2:
   mod: mod3
-  key: 2
+  key: "2"
 
 throw-space-3:
   mod: mod3
-  key: 3
+  key: "3"
 
 throw-space-4:
   mod: mod3
-  key: 4
+  key: "4"
 
 throw-space-5:
   mod: mod3
-  key: 5
+  key: "5"
 
 throw-space-6:
   mod: mod3
-  key: 6
+  key: "6"
 
 throw-space-7:
   mod: mod3
-  key: 7
+  key: "7"
 
 throw-space-8:
   mod: mod3
-  key: 8
+  key: "8"
 
 throw-space-9:
   mod: mod3
-  key: 9
+  key: "9"
 
 throw-space-10:
   mod: mod3
-  key: 0
+  key: "0"
 
 relaunch-amethyst:
   mod: mod4
